@@ -1,5 +1,5 @@
 #!/bin/sh
-path="$HOME/.config/nvim"
+path="$HOME/.config/wezterm"
 mkdir -p $path
 curl https://raw.githubusercontent.com/YumaFuu/wezterm/master/wezterm.lua > $path/wezterm.lua
 

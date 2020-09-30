@@ -1,5 +1,5 @@
 ## install
 
 ```
-$ curl https://raw.githubusercontent.com/YumaFuu/nvim/master/bin/install.sh | sh
+$ curl https://raw.githubusercontent.com/YumaFuu/wezterm/master/bin/install.sh | sh
 ```
