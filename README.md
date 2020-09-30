@@ -1,5 +1,5 @@
 ## install
 
 ```
-$ mkdir -p $HOME/.config/wezterm && curl https://githubusercontent/YumaFuu/wezterm/wezterm.lua
+$ curl https://raw.githubusercontent.com/YumaFuu/nvim/master/bin/install.sh | sh
 ```
